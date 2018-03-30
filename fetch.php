@@ -2,7 +2,7 @@
 
 $__author__   = 'phus.lu@gmail.com';
 $__version__  = '1.6.9';
-$__password__ = '';
+$__password__ = '1887415157';
 
 function encode_data($dic) {
     $a = array();
